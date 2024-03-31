@@ -22,3 +22,6 @@ their details to check whether they are eligible for loan or not.
  - one document file is attached with the project directory named 'Python_Project3_HouseLoanPricePredictionWebApplication_Evidences'.
  - The Project creeated from flask is in zip folder kindly compress it before use.
  - Direction to run the application is also provided in the evidence folder.
+## Pyhthon flask web application.dcx:
+  - file contains the full flask application with virtual environment
+## 
