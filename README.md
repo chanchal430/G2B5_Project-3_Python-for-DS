@@ -14,8 +14,11 @@ their details to check whether they are eligible for loan or not.
    2. The parameter of the dataset is: Loan ID,gender, married, dependents,education, self_employed,  applicant_income,
                            coapplicant_income, loan_amount, loan_amount_term, credit_history, property_area
 
-## Machine learning Model: It is built using '.ipynb' file from jupyter notebook.
-## Prediction observations: it is built using flask web framework and virtual enviroment aqs well.
-## For reference and evidences one document file is attached with the project directory named 'Python_Project3_HouseLoanPricePredictionWebApplication_Evidences'.
-- The Project creeated from flask is in zip folder kindly compress it before use.
-- Direction to run the application is also provided in the evidence folder.
+## Machine learning Model: 
+   - It is built using '.ipynb' file from jupyter notebook.
+## Prediction observations:
+   - it is built using flask web framework and virtual enviroment aqs well.
+## For reference and evidences:
+ - one document file is attached with the project directory named 'Python_Project3_HouseLoanPricePredictionWebApplication_Evidences'.
+ - The Project creeated from flask is in zip folder kindly compress it before use.
+ - Direction to run the application is also provided in the evidence folder.
